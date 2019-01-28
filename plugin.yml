@@ -1,0 +1,9 @@
+name: BookSystem
+version: 1.0.0
+api: 3.0.0
+main: BookSystem\Main
+author: GoldenTouch74
+
+commands:
+  ceshop:
+    description: "Open CustomEnchants Shop"

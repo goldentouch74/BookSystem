@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace BookSystem;
+namespace goldentouch74\BookSystem;
 
 use pocketmine\plugin\PluginBase;
 use pocketmine\item\Item;

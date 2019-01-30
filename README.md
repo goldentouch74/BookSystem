@@ -1,8 +1,10 @@
 # PiggyBookSystem
-A random book plugin for piggy custom enchants
-Requires PiggyCE
+A plugin to give you a book to recieve a enchant of that lore!
+
+
 
 
 credits:
+GoldenTouch74 
 xxNiceYT
 SavionLegendzz

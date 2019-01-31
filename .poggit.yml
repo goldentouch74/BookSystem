@@ -4,4 +4,11 @@ branches:
 projects:
   PiggyBookSystem:
     path: ""
+    
+    libs:
+    
+    - src jojoe77777/FormAPI/libFormAPI
+    
+      version: ^1.3
+      
 ...

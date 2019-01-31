@@ -1,4 +1,4 @@
-# PiggyBookSystem
+# BookSystem
 A plugin to give you a book to recieve a enchant of that lore!
 
 
